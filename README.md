@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Java, Springboot and AWS**
+- 🌱 I’m currently learning **Golang, Java, Springboot and AWS**
 - 🔭 I’m currently working at Santander.
 
 
@@ -29,4 +29,4 @@ You can find me on [![LinkedIn][2.2]][1].
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn)
 
 <!-- Link to your social media accounts -->
-[1]: https://www.linkedin.com/in/diego-brito-3265b4188/
+[1]: https://www.linkedin.com/in/diego-bbrito/
