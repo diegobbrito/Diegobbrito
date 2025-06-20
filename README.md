@@ -4,6 +4,24 @@
 - 🌱 I’m currently learning **Golang, Java, Springboot and AWS**
 - 🔭 I’m currently working at Santander.
 
+## 🏅 Certifications
+
+<a href="https://www.credly.com/badges/cbe43f16-d7dd-4569-8bb9-e1aaab5c4306/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Fundamentals" width="100"/>
+</a>
+
+<a href="https://www.credly.com/badges/d0cb51dc-0668-4147-b08b-b70c221408e4/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="100"/>
+</a>
+
+<a href="https://www.credly.com/badges/2fea0553-1099-4549-a0fb-e1db64e0150e/public_url" target="_blank">
+  <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="100"/>
+</a>
+
+<a href="https://www.credly.com/badges/78e7b1c2-9cce-4703-ba30-563fea454358/public_url" target="_blank">
+  <img src="https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="100"/>
+</a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
